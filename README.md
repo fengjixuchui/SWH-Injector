@@ -11,13 +11,18 @@ to manual map your dll into protected game by anti cheat.
 
 
 
-The idea is well explained below image.
-
 [Imgur](https://imgur.com/AJojXut)
 
+This explains well the idea.
+
+# How to use
+
+Command line : SignedDll.dll TargetDll.dll TargetProcName.exe
 
 
-SEH is not supported, implement it yourself.
+Tested on windows 10 1803.
+
+SEH is not supported!
 
 # How it works
 
